@@ -70,6 +70,13 @@ Build and train a CNN model that can classify X-ray images as indicating pneumon
    - (Optional) Use techniques like Grad-CAM for visual explanations.
 
 ---
+**6. Model Performance**
+
+<img width="725" height="635" alt="Screenshot 2025-11-05 200413" src="https://github.com/user-attachments/assets/77acc161-cebd-4c61-8c24-11b8df04c150" />
+
+<img width="917" height="637" alt="Screenshot 2025-11-05 200448" src="https://github.com/user-attachments/assets/217d5355-3422-4689-835b-f73e70bd22d4" />
+
+
 
 ## 📂 File Structure
 
